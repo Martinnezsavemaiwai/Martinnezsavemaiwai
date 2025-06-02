@@ -1,4 +1,8 @@
-<h1 align="center">สวัสดีครับ 👋 ผมชื่อ Martin Phanchiangsri</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> 
+  สวัสดีครับ ผมชื่อ Martin Phanchiangsri
+</h1>
+
 <h3 align="center">🧠 นักศึกษาวิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเทคโนโลยีสุรนารี (SUT)</h3>
 
 <p align="center">
