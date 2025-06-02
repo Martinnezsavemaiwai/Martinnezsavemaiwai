@@ -1,4 +1,4 @@
-<h1 align="center">สวัสดีครับ 👋 ผมชื่อ Martin Phanchiangsee</h1>
+<h1 align="center">สวัสดีครับ 👋 ผมชื่อ Martin Phanchiangsri</h1>
 <h3 align="center">นักศึกษาวิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเทคโนโลยีสุรนารี (SUT)</h3>
 
 <p align="center">
@@ -31,9 +31,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=martinphc&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=martinnezsavemaiwai&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=martinphc&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=martinnezsavemaiwai&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
   <a href="https://www.linkedin.com/in/martin-phanchiangsee/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:martinphc.dev@gmail.com">
+  <a href="mailto:wellcomingbeamnajachalen18@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
