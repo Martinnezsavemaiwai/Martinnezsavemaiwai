@@ -2,7 +2,7 @@
 <h3 align="center">🧠 นักศึกษาวิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเทคโนโลยีสุรนารี (SUT)</h3>
 
 <p align="center">
-  <img src="https://www.facebook.com/photo?fbid=1942318612842186&set=a.100380807035985&locale=th_TH/ghpvc/?username=martinnezsavemaiwai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=martinnezsavemaiwai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -43,5 +43,5 @@
 ---
 
 <p align="center">
-  ✨ Coding is not just a skill, it's an art of solving problems creatively ✨
+  ✨ "การเขียนโค้ดไม่ใช่แค่ทักษะ แต่เป็นศิลปะในการแก้ปัญหาอย่างสร้างสรรค์" ✨
 </p>
