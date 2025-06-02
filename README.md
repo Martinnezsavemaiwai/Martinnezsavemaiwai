@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> 
-  สวัสดีครับ ผมชื่อ Martin Phanchiangsri
+  สวัสดีครับ ผมชื่อ Martin Phanchiangsri: มาติน พานเชียงศรี
 </h1>
 
 <h3 align="center">🧠 นักศึกษาวิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเทคโนโลยีสุรนารี (SUT)</h3>
