@@ -37,7 +37,7 @@
 <td width="50%">
 
 ### 🔗 [CEMS - Club & Event Management System](https://github.com/martinnezsavemaiwai/CEMS)
-**เทคโนโลยีที่ใช้:** React, Node.js, PostgreSQL, Docker
+**เทคโนโลยีที่ใช้:** React, Node.js, SQLite, Docker
 
 ระบบจัดการกิจกรรมและชมรมในมหาวิทยาลัยที่ครอบคลุม:
 - 📝 ลงทะเบียนกิจกรรม
