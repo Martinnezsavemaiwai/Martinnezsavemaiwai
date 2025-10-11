@@ -20,7 +20,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-🔸 **🎓 ปี 3 วิศวกรรมคอมพิวเตอร์** @Suranaree University of Technology  
+🔸 **🎓 ปี 4 วิศวกรรมคอมพิวเตอร์** @Suranaree University of Technology  
 🔸 **💼 ปัจจุบันพัฒนา:** [CEMS - ระบบจัดการกิจกรรมและชมรม](https://github.com/sut-cems/final-project-cems)  
 🔸 **🛠️ ความถนัด:** React, Node.js, PostgreSQL, Docker, Go  
 🔸 **🌱 กำลังศึกษา:** DevOps, Microservices, Kubernetes, AI/ML  
