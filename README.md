@@ -78,6 +78,24 @@
 
 ---
 
+## 🪪 **📘 Certifications & Achievements**
+
+<div align="center">
+
+| 🏅 Certification | 🏫 Provider | 🔗 Link |
+|:----------------:|:------------|:--------|
+| [![Coursera](https://img.shields.io/badge/Introduction_to_DevOps-2A2F4F?style=flat-square&logo=coursera&logoColor=white)]() | Coursera | *(Coming soon)* |
+| [![Google Cloud](https://img.shields.io/badge/Google_Cloud_Essentials-1E293B?style=flat-square&logo=googlecloud&logoColor=white)]() | Google Cloud Skills Boost | *(Coming soon)* |
+| [![Meta Front-End](https://img.shields.io/badge/Meta_Front--End_Developer-312E81?style=flat-square&logo=meta&logoColor=white)]() | Coursera | *(Coming soon)* |
+| [![Docker](https://img.shields.io/badge/Docker_Essentials-0D1117?style=flat-square&logo=docker&logoColor=58A6FF)]() | IBM Skills Network | *(Coming soon)* |
+| [![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)]() | AWS Skill Builder | *(Coming soon)* |
+
+</div>
+
+> 🧩 *ตั้งเป้าเก็บ Certificate เพิ่มในสาย DevOps, Cloud, และ System Design ภายในปี 2025*
+
+---
+
 ## 📊 **GitHub Analytics**
 
 <div align="center">
