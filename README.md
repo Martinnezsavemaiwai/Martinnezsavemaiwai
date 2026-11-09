@@ -6,7 +6,7 @@
 <a href="https://github.com/Martinnezsavemaiwai/Riffcut"><img src="assets/riffcut.svg" width="100%" alt="Floor 5: Riffcut. Thai-first short-form video studio."></a>
 <img src="assets/oddmarch.svg" width="100%" alt="Floor 4: Oddmarch, private. 2D lane-battle mobile game, built in Godot.">
 <a href="https://github.com/Martinnezsavemaiwai/Floorbreaker"><img src="assets/floorbreaker.svg" width="100%" alt="Floor 3: Floorbreaker. Browser action roguelite. One boss per floor. Permadeath."></a>
-<img src="assets/doppelganger.svg" width="100%" alt="Floor 2: Doppelgänger, private. Local-first Thai voice cloning app.">
+<a href="https://github.com/Martinnezsavemaiwai/Doppelg-nger"><img src="assets/doppelganger.svg" width="100%" alt="Floor 2: Doppelgänger. Local-first Thai voice cloning app."></a>
 <a href="https://github.com/Martinnezsavemaiwai/thai-product-writer"><img src="assets/thai-product-writer.svg" width="100%" alt="Floor 1: thai-product-writer. AI agent skill for natural, context-aware Thai."></a>
 <img src="assets/lobby.svg" width="100%" alt="Lobby: Computer Engineering #27, SUT30. TCC Solution Development 3.">
 
@@ -24,7 +24,7 @@
 - [Riffcut](https://github.com/Martinnezsavemaiwai/Riffcut): Thai-first short-form video studio.
 - Oddmarch (private): 2D lane-battle mobile game, built in Godot.
 - [Floorbreaker](https://github.com/Martinnezsavemaiwai/Floorbreaker): Browser action roguelite. One boss per floor. Permadeath.
-- Doppelgänger (private): Local-first Thai voice cloning app.
+- [Doppelgänger](https://github.com/Martinnezsavemaiwai/Doppelg-nger): Local-first Thai voice cloning app.
 - [thai-product-writer](https://github.com/Martinnezsavemaiwai/thai-product-writer): AI agent skill for natural, context-aware Thai.
 
 </details>
